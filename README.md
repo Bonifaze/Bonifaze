@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Bonifaze
+- 👋 Hi, I’m @Bonifaze or @Clintonfaze in a social media
 - 👀 I’m interested in 
-programming work/job
+programming work/job 
 - 🌱 I’m currently learning laravel
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @clintonfaze

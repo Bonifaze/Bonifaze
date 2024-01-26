@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bonifaze or @Clintonfaze in a social media
+- 👋 Hi, I’m @Bonifaze or @Clintonfaze in all social media
 - 👀 I’m interested in 
 programming work/job 
 - 🌱 I’m currently learning laravel
